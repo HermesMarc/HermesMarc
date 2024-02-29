@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hey there, I'm Marc! 👋
 
-<!--
-**HermesMarc/HermesMarc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a mathematician by trade, but arguably more of a logician by practice. As you can see below, I have done some work on the intersection of computer-verified mathematics, first-order arithmetic and computability theory, in particular making use of an approach coined _synthetic computability_.
 
-Here are some ideas to get you started:
+I am currently looking for a PhD position in the area of mathematical logic, interested in continuing research on mechanized mathematics, topics like paraconsistent logics, the boundaries of the incompleteness theorems, or combinations of these themes. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If you are interested or have any pointers for me in this regard, please feel free to contact me!
+
+
+## Publications
+
+- [An Analysis of Tennenbaum’s Theorem in Constructive Type Theory](https://drops.dagstuhl.de/opus/volltexte/2022/16290/pdf/LIPIcs-FSCD-2022-9.pdf) 
+	- 👥 _Marc Hermes, Dominik Kirst_
+	- **🏆 Won the Award for Best Paper by Junior Researchers (FSCD 2022)**
+	- 📘 To appear in the Journal _Logical Methods in Computer Science_ (Volume 20).
+- [Synthetic Undecidability and Incompleteness of First-Order Axiom Systems in Coq ](https://link.springer.com/article/10.1007/s10817-022-09647-x)
+	- 👥 _Dominik Kirst, Marc Hermes_
+	- 🔖 First published at ITP 2021
+	- 📘 Extended version in the _Journal of Automated Reasoning_ (Volume 67) 
+- My Master Thesis: [Modeling Peano Arithmetic in Constructive Type Theory](https://raw.githubusercontent.com/HermesMarc/Documents/main/thesis.pdf)
