@@ -1,6 +1,6 @@
 ### Hey there, I'm Marc! 👋
 
-I'm a mathematician by trade, but arguably more of a logician by practice. As you can see below, I have done some work on the intersection of computer-verified mathematics, first-order arithmetic and computability theory, in particular making use of an approach coined _synthetic computability_.
+I'm a mathematician by training, but arguably more of a logician by practice. As you can see below, I have done some work on the intersection of computer-verified mathematics, first-order arithmetic and computability theory, in particular making use of an approach coined _synthetic computability_.
 
 I am currently looking for a PhD position in the area of mathematical logic, interested in continuing research on mechanized mathematics, topics like paraconsistent logics, the boundaries of the incompleteness theorems, or combinations of these themes. 
 
