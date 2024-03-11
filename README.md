@@ -9,10 +9,10 @@ If you are interested or have any pointers for me in this regard, please feel fr
 
 ## Publications
 
-- [An Analysis of Tennenbaum’s Theorem in Constructive Type Theory](https://drops.dagstuhl.de/opus/volltexte/2022/16290/pdf/LIPIcs-FSCD-2022-9.pdf) 
+- [An Analysis of Tennenbaum’s Theorem in Constructive Type Theory](https://lmcs.episciences.org/13204) 
 	- 👥 _Marc Hermes, Dominik Kirst_
 	- **🏆 Won the Award for Best Paper by Junior Researchers (FSCD 2022)**
-	- 📘 To appear in the Journal _Logical Methods in Computer Science_ (Volume 20).
+	- 📘 Included in the Journal _Logical Methods in Computer Science_ (Volume 20 Issue 1).
 - [Synthetic Undecidability and Incompleteness of First-Order Axiom Systems in Coq ](https://link.springer.com/article/10.1007/s10817-022-09647-x)
 	- 👥 _Dominik Kirst, Marc Hermes_
 	- 🔖 First published at ITP 2021
