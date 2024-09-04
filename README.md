@@ -1,14 +1,15 @@
 ### Hey there, I'm Marc! 👋
 
-I'm a mathematician by training, but arguably more of a logician by practice. As you can see below, I have done some work on the intersection of computer-verified mathematics, first-order arithmetic and computability theory, in particular making use of an approach coined _synthetic computability_.
+I’m originally from Luxembourg, but I completed my undergraduate studies in Germany, where I earned a Bachelor’s degree in Physics and a Master’s in Mathematics. During my Master’s program, I explored a variety of fields, including Machine Learning, Probability Theory, Topology, and Logic, before focusing my thesis within an intersection with computer science, on computer-assisted theorem proving.
 
-I am currently looking for a PhD position in the area of mathematical logic, interested in continuing research on mechanized mathematics, topics like paraconsistent logics, the boundaries of the incompleteness theorems, or combinations of these themes. 
-
-If you are interested or have any pointers for me in this regard, please feel free to contact me!
-
+Currently, I’m seeking opportunities in the fields of Data Science, Machine Learning. If you have any leads or suggestions in these areas, please don’t hesitate to [reach out](https://www.linkedin.com/in/marc-h-60b2bb319/)! 
+I’m excited to explore these dynamic and rapidly evolving fields, and apply them to real world problems.
 
 ## Publications
 
+- [Modular Verification of Intrusive List and Tree Data Structures in Separation Logic](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ITP.2024.19)
+	- 👥 _Marc Hermes, Robbert Krebbers_
+ 	- Published at ITP 2024
 - [An Analysis of Tennenbaum’s Theorem in Constructive Type Theory](https://lmcs.episciences.org/13204) 
 	- 👥 _Marc Hermes, Dominik Kirst_
 	- **🏆 Won the Award for Best Paper by Junior Researchers ([FSCD 2022](https://fscd-conference.org/editions/best-paper-awards/))**
