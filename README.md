@@ -2,7 +2,7 @@
 
 I’m originally from Luxembourg, but I completed my undergraduate studies in Germany, where I earned a Bachelor’s degree in Physics and a Master’s in Mathematics. During my Master’s program, I explored a variety of fields, including Machine Learning, Probability Theory, Topology, and Logic, before focusing my thesis within an intersection with computer science, on computer-assisted theorem proving.
 
-Currently, I’m seeking opportunities in the fields of Data Science, Machine Learning. If you have any leads or suggestions in these areas, please don’t hesitate to [reach out](https://www.linkedin.com/in/marc-h-60b2bb319/)! 
+Currently, I’m seeking opportunities in the fields of Data Science and Machine Learning. If you have any leads or suggestions in these areas, please don’t hesitate to [reach out](https://www.linkedin.com/in/marc-h-60b2bb319/)! 
 I’m excited to explore these dynamic and rapidly evolving fields, and apply them to real world problems.
 
 ## Publications
