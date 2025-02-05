@@ -2,6 +2,8 @@
 
 I’m originally from Luxembourg, but I completed my undergraduate studies in Germany, where I earned a Bachelor’s degree in Physics and a Master’s in Mathematics. During my Master’s program, I explored a variety of fields, including Machine Learning, Probability Theory, Topology, and Logic, before focusing my thesis within an intersection with computer science, on computer-assisted theorem proving.
 
+I am now working as a data scientist at [Machine Learning Programs](https://www.mlprograms.com) in Amsterdam.
+
 ## Publications
 
 - [Modular Verification of Intrusive List and Tree Data Structures in Separation Logic](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ITP.2024.19)
