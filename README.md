@@ -1,6 +1,6 @@
 ### Hey there, I'm Marc! 👋
 
-Originally from Luxembourg, I completed my undergrads in Germany, earning a Bachelor’s in Physics and a Master’s in Mathematics. During my Master’s program, I explored a variety of fields, including Machine Learning, Probability Theory, Topology, and Logic, before focusing my thesis within an intersection of math and computer science, on computer-assisted theorem proving.
+Originally from Luxembourg, I completed my undergrads in Germany, earning a Bachelor’s in Physics and a Master’s in Mathematics. During my Master’s program, I explored a variety of fields including Machine Learning, Probability Theory, Topology, and Logic, before focusing my thesis within an intersection of math and computer science, on computer-verified theorem proving.
 
 I am now working as a data scientist at [Machine Learning Programs](https://www.mlprograms.com) in Amsterdam.
 
